@@ -10,7 +10,7 @@ int main(){
 		cin>>temp;
 		ar.push_back(temp);
 	}
-	string word1,word2
+	string word1,word2;
 	cin>>word1;
 	cin>>word2;
 	int ans = INT_MAX;
